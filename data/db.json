@@ -1,0 +1,29 @@
+{
+  "alunos": [
+    {
+      "id": "1",
+      "nome": "Maria Betania",
+      "email": "mariampb@gmail.com"
+    },
+    {
+      "id": "2",
+      "nome": "Caetano Veloso",
+      "email": "caetano@gmail.com"
+    },
+    {
+      "id": "3",
+      "nome": "Marisa Monte",
+      "email": "monte@gmail.com"
+    },
+    {
+      "id": "0ce8",
+      "nome": "Paulo Coelho",
+      "email": "coelho@gmail.com"
+    },
+    {
+      "id": "0fcc",
+      "nome": "Manoel Carlos",
+      "email": "carlos@gmail.com"
+    }
+  ]
+}
